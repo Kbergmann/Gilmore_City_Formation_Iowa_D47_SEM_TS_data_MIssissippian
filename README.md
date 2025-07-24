@@ -1,6 +1,6 @@
 # Mississippian_Iowa
 
-Github repository for Anderson, N.T., Bergmann, K.B., Braun, M.G., Giffith, E.M., Saltzman, M.R., 2025. High-resolution record of global cooling during a large Mississippian positive carbon isotope excursion. Earth and Planetary Science Letters.
+Github repository for Anderson, N.T., Bergmann, K.B., Braun, M.G., Griffith, E.M., Saltzman, M.R., 2025. High-resolution record of global cooling during a large Mississippian positive carbon isotope excursion. Earth and Planetary Science Letters.
 
 This repository contains data, code, and supporting materials for our study of the Kinderhookian-Osagean Boundary Excursion (KOBE) and the Mississippian Gilmore City Formation.
 
@@ -28,5 +28,5 @@ This repository is public.
 Citation
 If using this repository, please cite the associated publication: Anderson, N.T., Bergmann, K.B., Braun, M.G., Giffith, E.M., Saltzman, M.R., 2025. High-resolution record of global cooling during a large Mississippian positive carbon isotope excursion. Earth and Planetary Science Letters.
 
-Also the and Zenodo doi: Anderson, N.T., Bergmann, K.B., Braun, M.G., Giffith, E.M., Saltzman, M.R., 2025. High-resolution record of global cooling during a large Mississippian positive carbon isotope excursion. 
+Also the and Zenodo doi: Anderson, N.T., Bergmann, K.B., Braun, M.G., Griffith, E.M., Saltzman, M.R., 2025. High-resolution record of global cooling during a large Mississippian positive carbon isotope excursion. 
 https://doi.org/10.5281/zenodo.16415784
