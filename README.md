@@ -17,7 +17,7 @@ data/photomicrographs: corresponding GPS locations for all sample sites in Excel
 data/stitched_photomicrographs:
 A composite stratigraphic column. Detailed drawn stratigraphic columns in PDF format.
 
-data/SEM and EDS:
+data/sem_eds:
 BSE images and EDS elemental maps from various samples.
 
 data/clumped_isotope_results:
