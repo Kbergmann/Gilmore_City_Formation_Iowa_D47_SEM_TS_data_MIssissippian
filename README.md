@@ -1,4 +1,4 @@
-# Mississippian_Iowa
+# Gilmore_City_Formation_Iowa_D47_SEM_TS_data_Mississippian
 
 Github repository for Anderson, N.T., Bergmann, K.B., Braun, M.G., Griffith, E.M., Saltzman, M.R., 2025. High-resolution record of global cooling during a large Mississippian positive carbon isotope excursion. Earth and Planetary Science Letters.
 
