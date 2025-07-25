@@ -12,13 +12,11 @@ code/: Python scripts for data analysis and figure generation.
 
 data/: Contains processed datasets for petrographic and isotopic analyses.
 
-data/photomicrographs: corresponding GPS locations for all sample sites in Excel format
+data/photomicrographs: photomicrographs of carbonates from the Gilmore City Formation
 
-data/stitched_photomicrographs:
-A composite stratigraphic column. Detailed drawn stratigraphic columns in PDF format.
+data/stitched_photomicrographs: stitched photomicrographs of select thin sections of carbonates from the Gilmore City Formation
 
-data/sem_eds:
-BSE images and EDS elemental maps from various samples.
+data/sem_eds: BSE images and EDS elemental maps from various samples.
 
 data/clumped_isotope_results:
 Processed and raw datasets of clumped isotope measurements from Mississippian samples collected at MIT. Includes raw voltage data for each analysis and processed outputs from ClumpyCrunch and BLIMP, as well as plots summarizing standards and results, in CSV, HTML, and PNG formats.
